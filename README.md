@@ -10,6 +10,12 @@ Status: **Pilot candidate**, running as a local demo on synthetic pricing histor
 
 ---
 
+## See it in action
+
+![Walkthrough: estimate request, refusal on weak data, priced draft, owner approval and branded quote](screenshots/demo-walkthrough.gif)
+
+*A 40-second walkthrough of the local demo: a customer request, a refusal when the job is outside past data, a firm price with confidence, explicit owner approval, and the final quote. Synthetic data and a fictional business.*
+
 ## The problem
 
 Small service businesses lose leads when quotes are slow, and they lose margin when prices are inconsistent. Pricing often lives in one person's head, with no record of why a number was given.
