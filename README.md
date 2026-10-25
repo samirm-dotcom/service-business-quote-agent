@@ -6,7 +6,7 @@ Status: **Pilot candidate**, running as a local demo on synthetic pricing histor
 
 > This is a **showcase repository**. It explains the product with screenshots, architecture and short code excerpts. The full source code is private and available on request for hiring or business conversations via [LinkedIn](https://www.linkedin.com/in/samirmammadli) or the [contact page](https://samir-mammadli.vercel.app/contact).
 
-[Product page](https://samir-mammadli.vercel.app/products/service-business-quote-agent) · [Full case study](https://samir-mammadli.vercel.app/work/service-business-quote-agent)
+[Product page](https://samir-mammadli.vercel.app/products/service-business-quote-agent) · [Full case study](https://samir-mammadli.vercel.app/work/service-business-quote-agent) · **[Business analysis: requirements, rules & acceptance criteria](case-study/README.md)** · [Article: why it refuses to guess](case-study/refuse-instead-of-guess.md)
 
 ---
 
